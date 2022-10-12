@@ -40,3 +40,4 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 - camera mask/RGB data: https://drive.google.com/file/d/1Ob9rdKB2MzQ2NzJOVvMRq5SYU-WVTP4V
 - keras-facenet-h5: https://drive.google.com/file/d/1py3T0d9nzgxlf2QNUx94PFcxAp_pJNE5
 - vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5: https://drive.google.com/file/d/1ysAOCZ_1nbg6ahfVwMerPsw_rjfJIdpN
+- glove.6B.50d.txt: https://drive.google.com/file/d/1GwdYuGyC-aaYK68gB5IhU-UohH8DKu5L
