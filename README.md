@@ -41,3 +41,5 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 - keras-facenet-h5: https://drive.google.com/file/d/1py3T0d9nzgxlf2QNUx94PFcxAp_pJNE5
 - vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5: https://drive.google.com/file/d/1ysAOCZ_1nbg6ahfVwMerPsw_rjfJIdpN
 - glove.6B.50d.txt: https://drive.google.com/file/d/1GwdYuGyC-aaYK68gB5IhU-UohH8DKu5L
+- Trigger_word: X_train.npy: https://drive.google.com/file/d/1ncm8i_S6kXs_FDhGtk1J3kL293ADmdD_/
+- Trigger_word: X_dev.npy: https://drive.google.com/file/d/15u6X8fnEMKb7JeT_IiBNW_HnZvHbe5tG/
